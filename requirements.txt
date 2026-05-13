@@ -1,0 +1,18 @@
+# Server
+fastapi
+uvicorn
+
+# HTTP Client
+httpx
+
+# LLM & AI
+transformers
+torch
+sentence-transformers
+
+# RAG / Embeddings & Vector Store
+faiss-cpu
+numpy
+
+# Pydantic for models
+pydantic
